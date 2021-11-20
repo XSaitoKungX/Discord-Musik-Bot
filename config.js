@@ -17,7 +17,8 @@ module.exports = {
     "https://raw.githubusercontent.com/SudhanPlayz/Discord-MusicBot/master/assets/logo.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   EmbedColor: "RANDOM", //Color of most embeds | Dont edit unless you want a specific color instead of a random one each time
   Permissions: 2205281600, //Bot Inviting Permissions
-  Website: process.env.Website || "localhost", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
+  Website: process.env.Website || "http://localhost", 
+  //Website where it was hosted at includes http or https || If you using Heroku copy the Applink [ Example: https://example.herokuapp.com ]
   
   Presence: {
     status: "online", // You can show online, idle, and dnd
