@@ -28,7 +28,7 @@ Wenn du größere Codierungsprobleme mit diesem Bot hast, dann meldest dich bitt
 
 ## 📸 Screenshots
 
-<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
+<div align="left"><img src="/assets/play.png"></div><div align="center"><img src="/assets/queue.png"></div><div align="right"><img src="/assets/seek.png"></div>
 
 <div align="center"><img src="/assets/features.png"></div>
 
